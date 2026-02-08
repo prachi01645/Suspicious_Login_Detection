@@ -25,3 +25,6 @@ User 4: Suspicious (Login at 23:45 from India)
 User 5: Suspicious (Login at 03:15 from Russia)
 
 Total logins: 5 | Suspicious: 3 (60.0%)
+
+<img width="673" height="259" alt="image" src="https://github.com/user-attachments/assets/3fbeebce-8d10-48ee-b096-39bf6a30c9d0" />
+
