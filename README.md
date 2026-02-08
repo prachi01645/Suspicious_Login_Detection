@@ -9,15 +9,19 @@ It is fully self-contained and does not require any external libraries.
 2. Run the script
 3. Check the console output for flagged logins
    
-
-## Example Output# Suspicious_Login_Detection
+## Example Output
+# Suspicious_Login_Detection
 Detect suspicious login attempts using Python, based on time, location, and device type
 Suspicious Login Detection Output:
 
 User 1: Normal (Login at 08:15 from India)
+
 User 2: Suspicious (Login at 02:30 from USA)
+
 User 3: Normal (Login at 09:00 from India)
+
 User 4: Suspicious (Login at 23:45 from India)
+
 User 5: Suspicious (Login at 03:15 from Russia)
 
 Total logins: 5 | Suspicious: 3 (60.0%)
