@@ -8,6 +8,13 @@ It is fully self-contained and does not require any external libraries.
 1. Open [suspicious_login_detection.py](./suspicious_login_detection.py) in Python 3.x
 2. Run the script
 3. Check the console output for flagged logins
+
+##  Methodology
+ Step 1: Input Parsing → Reads login data
+ Step 2: Feature Extraction → Identifies unusual patterns
+ Step 3: Anomaly Detection → Flags deviations
+ Step 4: Output Classification → Labels Safe/Suspicious
+ Step 5: Summary → Reports all flagged logins
    
 ## Example Output
 # Suspicious_Login_Detection
